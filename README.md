@@ -1,0 +1,1 @@
+# ginortS_hackerrank.py
